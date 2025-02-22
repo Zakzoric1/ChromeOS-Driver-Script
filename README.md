@@ -6,5 +6,5 @@ I haven't tested it with anything else other then Ubuntu 24.10
 Well just today in the time of writing this I got an idea, I remembered seeing some scripts that were made for [Termux](https://github.com/termux/termux-app) when searching for scripts that could install wine on my device. But I thought what if there was a script like that for the driver scripts **SURE** it's a pretty pointless idea. But hey! I did it!
 # CREDITS
 All scripts belong to their creators.
-The key and audio scripts, **DO NOT** belong to me they belong to Weird Tree Guy, on github
+The key and audio scripts, **DO NOT** belong to me they belong to Weird Tree *Thing, on github
 https://github.com/WeirdTreeThing
